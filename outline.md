@@ -15,20 +15,19 @@ The topic for the course, "Astrophysical Dynamics", has deliberately been chosen
 - The two-body problem
 - The restricted three-body problem: tadpole and horseshoe orbits, trojans
 - Resonant interactions between planets
-- The dynamics of black hole mergers
-- Dynamics of star clusters. Violent relaxation, core collapse
-- How to integrate accurately. Symplectic integration
-- Orbits in Galactic disks
-- Relativistic corrections in pulsar binaries
 - Planetary migration
 - Kozai mechanism
 - Tides: orbital evolution, tidal heating
 - Chaos and the evolution of systems over large times
-- Formation and evolution of dark matter halos
+- How to integrate accurately. Symplectic integration
+- Dynamics of star clusters. Violent relaxation, core collapse
+- Orbits in Galactic disks
 - Dynamical friction and applications such as orbital decay of globular clusters
-- Evolution of interacting binary stars
+- Relativistic corrections in pulsar binaries
+- The dynamics of black hole mergers
 - Tidal disruption events around supermassive black holes; supermassive black hole growth
-
+- Formation and evolution of dark matter halos
+- Evolution of interacting binary stars
 
 ## Format
 

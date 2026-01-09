@@ -53,7 +53,7 @@ Your grade will be based on (1) weekly submissions (1/3), (2) the materials prep
 
 _Weekly submissions_: You should devote 2-3 hours outside class each week for the reading. The reading questions are meant to guide your reading, highlighting the important points / equations / physics ideas etc. Answers to the reading questions need to be submitted to your github _before the Monday class starts_, and after the Wednesday class you should submit your answers to the numerical exercises in your github.
 
-_Topic week_: For your topic week, you and your partner will be responsible for choosing the reading, devising a set of reading questions, writing a numerical exercise and running the class discussions. You should consult with AC about your plans for the week on the previous Monday _at the latest_. The reading should be given out on the previous Wednesday at the latest to give plenty of time to read it before the Monday class. 
+_Topic week_: For your topic week, you and your partner will be responsible for choosing the reading, devising a set of reading questions (with solutions), writing a numerical exercise (with solutions) and running the class discussions. You should consult with AC about your plans for the week on the previous Monday _at the latest_. The reading should be given out on the previous Wednesday at the latest to give plenty of time to read it before the Monday class. 
 
 _Project_: Your project should be a computational project on some aspect of astrophysical dynamics. The topic may or may not be related to your research area. You should consult with AC about your choice of topic before the end of Week 8 (so before Friday Mar 13). 
 

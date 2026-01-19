@@ -19,7 +19,8 @@ project:
       - file: Week1/week1.ipynb
       - file: Week1/week1_solutions.ipynb
     - file: Week2/week2.md
-
+      children:
+      - file: Week2/week2_exercise.md
 site:
   template: book-theme
   #options:

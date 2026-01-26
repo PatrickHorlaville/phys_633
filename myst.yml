@@ -23,6 +23,8 @@ project:
       - file: Week2/week2_exercise.md
       - file: Week2/week2_solutions.ipynb
     - file: Week3/week3.md
+      children:
+      - file: Week3/week3_exercise.md
 
 site:
   template: book-theme

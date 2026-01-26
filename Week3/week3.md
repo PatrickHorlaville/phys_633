@@ -1,4 +1,4 @@
-# Week 3: Tides, Rotation, and Shape; Resonant perturbations
+# Week 3: Tides, Rotation, and Shape; Resonant Perturbations
 
 ## Reading
 

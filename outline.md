@@ -45,6 +45,8 @@ The second part of the course (approximately 4 weeks) will be devoted to individ
   - [YouTube tutorials](https://www.youtube.com/@reboundcode)
   - [Units](https://rebound.hanno-rein.de/units/#using-g1)
   - [REBOUNDx](https://reboundx.readthedocs.io/en/latest/python_quickstart.html) for adding additional forces, e.g. effects of tides
+- [galpy code](https://docs.galpy.org/en/v1.11.0/)
+
   
 ## Assessment
 

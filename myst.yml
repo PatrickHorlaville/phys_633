@@ -28,6 +28,8 @@ project:
       - file: Week3/week3_part1_solutions.ipynb
       - file: Week3/week3_part2_solutions.ipynb
     - file: Week4/week4.md
+      children:
+      - file: Week4/Exercise_dwarf_galaxies.ipynb
 
 
 site:
